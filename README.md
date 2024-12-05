@@ -26,7 +26,7 @@ This dataset provides the address and usage of all different shelter programs in
 The neighbourhood profiles provide a wealth of information about the demographic and socio-economic conditions across different Toronto neighbourhoods.We extracted the information we deemed necessary such as age, income, neighbourhood geometry, popular commuting methods. This dataset required significant cleaning and formatting to distill relevant information that aligns with our project goals.
 
 **Links to Medium Article:**
-To access our Medium Article, click this link: https://medium.com/@flexpoly321/pedaling-against-theft-an-analysis-of-bicycle-theft-in-toronto-73f45390b352
+To access our Medium Article, click this [link](https://medium.com/@flexpoly321/pedaling-against-theft-an-analysis-of-bicycle-theft-in-toronto-73f45390b352).
 
 **Workflow for TPS and City of Toronto Data:**
 ![Data-Processing-Flowchart-P^3](https://github.com/user-attachments/assets/d6804df3-060f-4019-b5aa-afe4a688a703)
